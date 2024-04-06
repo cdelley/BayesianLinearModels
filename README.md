@@ -1,1 +1,1 @@
-Playing arround with Bayesian linear regression models in NumPyro
+Playing around with Bayesian linear regression models in NumPyro
